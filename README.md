@@ -19,7 +19,7 @@
 
 | 在庫注意・発注可能状態 | 補充完了後のリアルタイム反映 |
 | :---: | :---: |
-| ![発注側_発注可能](order_active.jpg) | ![発注側_更新後](order_updated.jpg) |
+| ![発注側_発注可能](order_active.png) | ![発注側_更新後](order_updated.png) |
 
 ---
 
@@ -28,7 +28,7 @@
 
 | 補充タスク受信時 | 補充完了後 |
 | :---: | :---: |
-| ![補充側_タスクあり](supply_task.jpg) | ![補充側_完了](supply_done.jpg) |
+| ![補充側_タスクあり](supply_task.png) | ![補充側_完了](supply_done.png) |
 
 ---
 
