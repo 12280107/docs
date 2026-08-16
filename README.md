@@ -10,7 +10,7 @@
 ### 1. ログイン画面 (権限認証)
 ロール（管理者 / 発注側 / 補充側）を選択してログインすることで、各権限に応じた専用画面に切り替わります。
 
-![ログイン画面](docs/images/login.png)
+![ログイン画面](login.png)
 
 ---
 
@@ -19,7 +19,7 @@
 
 | 在庫注意・発注可能状態 | 補充完了後のリアルタイム反映 |
 | :---: | :---: |
-| ![発注側_発注可能](docs/images/order_active.jpg) | ![発注側_更新後](docs/images/order_updated.jpg) |
+| ![発注側_発注可能](order_active.jpg) | ![発注側_更新後](order_updated.jpg) |
 
 ---
 
@@ -28,11 +28,11 @@
 
 | 補充タスク受信時 | 補充完了後 |
 | :---: | :---: |
-| ![補充側_タスクあり](docs/images/supply_task.jpg) | ![補充側_完了](docs/images/supply_done.jpg) |
+| ![補充側_タスクあり](supply_task.jpg) | ![補充側_完了](supply_done.jpg) |
 
 ---
 
 ### 4. 管理側画面 (マスタ・ユーザー管理)
 商品マスタの登録・削除、およびシステム利用ユーザーの権限管理を行います。画面下部には全操作のログが表示されます。
 
-![管理画面](docs/images/manager.png)
+![管理画面](manager.png)
